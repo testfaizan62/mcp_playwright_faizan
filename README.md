@@ -20,7 +20,7 @@ Git Bash (if working on Windows, for smooth CLI navigation)
 
 📂 Project Structure
 
-``` GREENKART STORE/
+GREENKART STORE/
 │── tests/
 │   └── greenkart.e2e.spec.js     # End-to-End test file
 │── .vscode/
