@@ -4,7 +4,7 @@ This repository demonstrates end-to-end (E2E) testing of the GreenKart Store usi
 
 📌 Objectives
 
-```Automate critical user journeys of the GreenKart Store.
+Automate critical user journeys of the GreenKart Store.
 Validate both positive and negative test flows.
 Demonstrate the use of MCP + Playwright in a real-world test automation setup.
 Showcase AI-assisted QA practices using GitHub Copilot Chat inside VS Code Insiders.
@@ -44,7 +44,7 @@ This allows GitHub Copilot Chat to leverage Playwright’s MCP server for test s
 
 🧪 Testing Flow
 
-```Navigate to GreenKart Store main URL.
+Navigate to GreenKart Store main URL.
 Search and add three random vegetables to the cart.
 Perform a negative test by searching for a non-existing vegetable.
 Open the cart and verify that all added vegetables are listed correctly.
@@ -53,13 +53,13 @@ Verify that the checkout table displays all added items correctly.
 
 🚀 Running the Tests
 
-```Clone the repository: git clone <repository name>
+Clone the repository: git clone <repository name>
 Install dependencies: npm install
 Run the tests: npx playwright test
 
 🤖 Using LLM + Copilot Chat
 
-```Open the repo in VS Code Insiders.
+Open the repo in VS Code Insiders.
 Use GitHub Copilot Chat (Ctrl+I) to:
 Ask for Playwright test optimizations.
 Generate additional negative/edge test scenarios.
